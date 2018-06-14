@@ -11,7 +11,7 @@ email: samwu101@berkeley.edu
 description: > # this means to ignore newlines until "baseurl:"
   (I'll leave this space blank for now)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://samwu101.github.io" # the base hostname & protocol for your site
 facebook_username: samwu101
 github_username:  samwu101
 
